@@ -1,0 +1,90 @@
+.card p {
+	margin-top: -10px;
+	margin-bottom: 1px;
+}
+
+.row .card:hover{
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+	transform: scale(1.02);
+}
+
+.btn-outline {
+  color: #D77E6A;
+  background-color: #ffffff;
+  border-color: #D77E6A;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: -15px;
+}
+
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline:focus,
+.btn-outline.active {
+  background: #D77E6A;
+  color: #ffffff;
+  border-color: #D77E6A;
+  
+}
+
+section	.nav-link {
+	color: white;
+	margin-left: -15px;
+}
+
+.nav-link:hover{
+	color: #D77E6A;
+}
+
+section {
+	background-color: #1B1E2F;
+}
+ .copy1 {
+ 	background-color: #D77E6A;
+ }
+
+ .navbar {
+ 	background-color: #1B1E2F !important;
+ }
+
+ .navbar a {
+ 	color: white !important;
+ }
+
+ nav .nav-link:hover{
+ 	color: #D77E6A !important;
+ }
+
+ nav .navbar-brand:hover{
+ 	color: #D77E6A !important;
+ }
+
+ nav h5 {
+ 	color: white;
+ }
+
+.form-control {
+	border-color: #D77E6A;
+}
+
+.r1 {
+	background-color: 
+}
+
+.navbar-brand h1 {
+	font-family: 'Caveat Brush', cursive;
+}
+
+section img {
+	width: 80px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+.tombol:hover {
+	background-color: #ffffff !important;
+}
+
+.tombol {
+	background: #D77E6A !important;
+}
